@@ -47,8 +47,8 @@ All output files will be saved in the `output` directory. Ensure this directory 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/conorcremin93/Taxonomic-Analysis.git
-cd Taxonomic-Analysis
+git clone https://github.com/conorcremin93/Taxonomic_Analysis.git
+cd Taxonomic_Analysis
 ```
 ---
 
@@ -76,7 +76,7 @@ mkdir output
 Build the Docker image:
 
 ```bash
-mkdir output
+docker build -t taxonomic_analysis .
 ```
 ---
 

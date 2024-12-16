@@ -1,0 +1,11 @@
+Summary Report: Taxonomic Analysis
+========================================
+
+Total species count across all phyla: 1220
+
+Species Count by Phylum:
+        phylum  Total_Species_Count  Average_Species_Per_Species  Standard_Deviation  Rank
+Proteobacteria                  390                   195.000000          148.492424     1
+ Bacteroidetes                  310                   103.333333           83.864971     2
+    Firmicutes                  270                    90.000000           26.457513     3
+Actinobacteria                  250                   125.000000           35.355339     4
